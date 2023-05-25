@@ -14,7 +14,10 @@ Registration Page
 <label> middlename: </label>
 <input type="text" name="middlename" size="15"/> <br> <br>
 <label> Lastname: </label>         
-<input type="text" name="lastname" size="15"/> <br> <br>  
+<input type="text" name="lastname" size="15"/> <br> <br>
+<label> caste: </label>
+<input type="text" name="caste" size="15"/> <br> <br>
+
   
 <label>   
 Course :  
